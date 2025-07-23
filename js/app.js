@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_API_KEY'; // Replace with your TMDb API key
+const apiKey = '2b06e9152316d36cd8a11dbbf2257f5e';
 
 $(document).ready(function () {
     loadPopularMovies();
