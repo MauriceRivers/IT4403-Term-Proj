@@ -1,2 +1,18 @@
-/* Add your styles here */
-body { font-family: Arial, sans-serif; }
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#search-container {
+    margin-bottom: 20px;
+}
+
+#search-input {
+    padding: 8px;
+    width: 250px;
+}
+
+#search-button {
+    padding: 8px 12px;
+    cursor: pointer;
+}
